@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/YKJcysc.jpeg" alt="MeduzaResearch Logo" width="300">
 </p>
 
-# MeduzaResearch
+# Meduza Research
 
 [![License](https://img.shields.io/badge/License-GPL%203.0%20with%20AGPL%203.0-blue.svg)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/Th3Tr1ckst3r/MeduzaResearch)](https://github.com/Th3Tr1ckst3r/MeduzaResearch/stargazers)
