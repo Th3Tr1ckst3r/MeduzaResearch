@@ -60,5 +60,7 @@ https://gbhackers.com/new-medusa-stealer/
 
 https://www.resecurity.com/blog/article/new-version-of-medusa-stealer-released-in-dark-web
 
+https://www.virustotal.com/graph/ga915589747524a0ca06b0003a4e6db69de78bcbae26a492d90dde9256f3dc6d0
+
 https://research.nccgroup.com/2023/11/13/dont-throw-a-hissy-fit-defend-against-medusa/
 
