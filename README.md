@@ -25,7 +25,13 @@ against this malware strain. You would think that would be the end of it, but no
 into this very unique malware strain being shared on the dark web as a service. A great example of this can be found [here](https://otx.alienvault.com/pulse/65f12070a078f83266ee3fd4).
 
 Where Pikabot, a different, but popular malware strain that may need no introduction was used to infect the target with the "Meduza Stealer". This technique was very uncommon,
-which definitely raised some eyebrows, but I digress. 
+which definitely raised some eyebrows, but I digress.
+
+# Solutions
+
+Many of us researchers have our own solutions, but for those that don't I have provided some blocklists in this repository. I've used the standard plaintext format
+for the first set of blocklists, & for the second set of blocklists I used an organized JSON format so that its easier to read, & work with. I've also provided in the same
+formats a list of various hashes to look for when it comes to these strains of malware.
 
 # Conclusion
 
